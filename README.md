@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Perl related to implicit type coercion. Perl's flexibility in handling data types can be a source of unexpected behavior, especially when mixing string and numeric operations. The `bug.pl` file shows an example of this error, while `bugSolution.pl` provides a corrected version.
